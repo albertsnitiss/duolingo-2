@@ -2,7 +2,7 @@
 
 [![Keep my Duolingo streak](https://github.com/dngnd-forks/duolingo-2/actions/workflows/streak-keeper.yml/badge.svg?branch=main)](https://github.com/dngnd-forks/duolingo-2/actions/workflows/streak-keeper.yml)
 
-
+fine
 [![Keep my Duolingo streak](https://github.com/albertsnitiss/duolingo-2/actions/workflows/streak-keeper.yml/badge.svg)](https://github.com/albertsnitiss/duolingo-2/actions/workflows/streak-keeper.yml)
 <img src="duo.svg" width="128px"/>
 
